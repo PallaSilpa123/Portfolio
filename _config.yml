@@ -1,7 +1,16 @@
-title: Palla Mohana Silpa
-logo: assets/img/ProfilePhoto.jpg
-description: I have 3+ Years of total IT experience in Big Data Analysis and Data
-Management.Proficient in systematically extract information from large set of data.Proficient in Big data analytics.Excellent code analysis, debugging, and technical problem-solving skills.Excellent communication skills both verbal and written.Experience in working with Agile Methodology.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Palla Mohana Silpa </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  AProficient in systematically extract information from large set of data.Proficient in Big data analytics.
+  Excellent code analysis, debugging, and technical problem-solving skills.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
