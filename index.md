@@ -12,5 +12,5 @@ This project includes to load the data from source and process it through Enterp
 
 This project includes building ofstage, core and summary layersin Enterprise Analytics Platform with data from various grid data sources and for end consumption from downstream systems.
 
-<center><img src="assets/img/Grid.jpg"/></center>
+<center><img src="assets/img/Grid2.jpg"/></center>
 ---
